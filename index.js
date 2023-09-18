@@ -1,4 +1,4 @@
-"use strict"
+
 var input=document.getElementById('input');
 var number=document.querySelectorAll('.numbers div');
 var operator=document.querySelectorAll('.operators div');
